@@ -4,7 +4,7 @@ import App from "./App.jsx";
 import "./index.css";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
-  //file main
+  //file main Sanh
   <React.StrictMode>
     <App />
   </React.StrictMode>
